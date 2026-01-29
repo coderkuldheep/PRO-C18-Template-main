@@ -9,15 +9,15 @@ var END=0;
 var gameState=1;
 
 function preload(){
-  pathImg = loadImage("Road.png");
-  boyImg = loadAnimation("gopiserious.png","gopieating.png");
-  boy1Img = loadAnimation("gopismiling.png")
-  cashImg = loadImage("bone.png");
-  diamondsImg = loadImage("racism.png");
-  jwelleryImg = loadImage("dog.png");
-  swordImg = loadImage("book.png");
-  endImg =loadAnimation("gameOver.png");
-  end1Img = loadImage("startedstudying.png");
+  pathImg = loadImage("assets/Road.png");
+  boyImg = loadAnimation("assets/gopiserious.png","assets/gopieating.png");
+  boy1Img = loadAnimation("assets/gopismiling.png")
+  cashImg = loadImage("assets/bone.png");
+  diamondsImg = loadImage("assets/racism.png");
+  jwelleryImg = loadImage("assets/dog.png");
+  swordImg = loadImage("assets/book.png");
+  endImg =loadAnimation("assets/gameOver.png");
+  end1Img = loadImage("assets/startedstudying.png");
   
 }
 
